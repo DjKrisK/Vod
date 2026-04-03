@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Scream7.2026" tvg-name="Scream 7" tvg-logo="https://seat42f.com" group-title="Horror Movies" tvg-type="movie" movie-description="When a new Ghostface killer emerges in the town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target." year="2026" director="Kevin Williamson" actors="Neve Campbell, Courteney Cox",Scream 7 (2026)
+#EXTINF:-1 tvg-id="Scream7.2026" tvg-name="Scream 7" tvg-logo="https://seat42f.com" group-title="Horror Movies" tvg-type="movie" movie-description="When a new Ghostface killer emerges in the town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target." year="2026",Scream 7 (2026)
 https://workers.dev
+
+#EXTINF:-1 tvg-id="TLOU.S01E01" tvg-name="The Last of Us S01E01" tvg-logo="https://tmdb.org" group-title="Action Series" tvg-type="serie" tvg-serie="The Last of Us" tvg-season="1" tvg-episode="1",The Last of Us - S01E01 - When You're Lost in the Darkness
+http://example.com
+
+#EXTINF:-1 tvg-id="TLOU.S01E02" tvg-name="The Last of Us S01E02" tvg-logo="https://tmdb.org" group-title="Action Series" tvg-type="serie" tvg-serie="The Last of Us" tvg-season="1" tvg-episode="2",The Last of Us - S01E02 - Infected
+http://example.com
