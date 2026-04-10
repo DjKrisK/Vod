@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:-1 tvg-id="1159559" tmdb-id="1159559" tvg-logo="https://tmdb.org" group-title="Movies" description="After the latest Ghostface killings, the survivors leave Woodsboro behind and start a fresh chapter.",Scream 7 (2026)
+#EXTINF:-1 imdb-id="tt27047903" tvg-logo="https://tmdb.org" group-title="Movies" description="After the latest Ghostface killings, the survivors leave Woodsboro behind and start a fresh chapter.",Scream 7 (2026)
 Cd.mp4
